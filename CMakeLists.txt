@@ -10,6 +10,7 @@ add_executable(hello
     01hello.c
     getarea.c
     functions.c
+    struct_demo.c
     traverse.c
 )
 
